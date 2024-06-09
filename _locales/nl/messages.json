@@ -1,247 +1,247 @@
 {
-	"extensionDescription": {
-		"message": "Save a complete page into a single HTML file",
-		"description": "Description of the extension."
+	"extensionDescription":{
+		"message":"Sla een complete website op in één HTML-bestand",
+		"description":"Description of the extension."
 	},
-	"commandSaveSelectedTabs": {
-		"message": "Save the selected tabs or their selected contents",
-		"description": "Command (Ctrl+Shift+Y): 'Save the selected tabs or their selected contents'"
+	"commandSaveSelectedTabs":{
+		"message":"Sla de geselecteerde tabbladen of hun geselecteerde inhoud op",
+		"description":"Command (Ctrl+Shift+Y): 'Save the selected tabs or their selected contents'"
 	},
-	"commandSaveAllTabs": {
-		"message": "Save all tabs",
-		"description": "Command (Ctrl+Shift+U): 'Save all tabs'"
+	"commandSaveAllTabs":{
+		"message":"Sla alle tabbladen op",
+		"description":"Command (Ctrl+Shift+U): 'Save all tabs'"
 	},
-	"menuSavePage": {
-		"message": "Save page with SingleFile",
-		"description": "Menu entry: 'Save page with SingleFile'"
+	"menuSavePage":{
+		"message":"Sla pagina op met SingleFile",
+		"description":"Menu entry: 'Save page with SingleFile'"
 	},
-	"menuSaveSelectedLinks": {
-		"message": "Save selected links",
-		"description": "Menu entry: 'Save selected links'"
+	"menuSaveSelectedLinks":{
+		"message":"Sla geselecteerde links op",
+		"description":"Menu entry: 'Save selected links'"
 	},
-	"menuEditPage": {
-		"message": "Annotate the page...",
-		"description": "Menu entry: 'Annotate the page...'"
+	"menuEditPage":{
+		"message":"Annoteer de pagina...",
+		"description":"Menu entry: 'Annotate the page...'"
 	},
-	"menuEditAndSavePage": {
-		"message": "Annotate and save the page...",
-		"description": "Menu entry: 'Annotate and save the page...'"
+	"menuEditAndSavePage":{
+		"message":"Annoteer en sla de pagina op...",
+		"description":"Menu entry: 'Annotate and save the page...'"
 	},
-	"menuSaveWithProfile": {
-		"message": "Save page with profile",
-		"description": "Menu entry: 'Save with profile'"
+	"menuSaveWithProfile":{
+		"message":"Sla pagina op met profiel",
+		"description":"Menu entry: 'Save with profile'"
 	},
-	"menuViewPendingSaves": {
-		"message": "View pending saves...",
-		"description": "Menu entry: 'View pending saves...'"
+	"menuViewPendingSaves":{
+		"message":"Bekijk lopende opslagen...",
+		"description":"Menu entry: 'View pending saves...'"
 	},
-	"menuSelectProfile": {
-		"message": "Select the default profile",
-		"description": "Menu entry: 'Select the default profile'"
+	"menuSelectProfile":{
+		"message":"Selecteer het standaardprofiel",
+		"description":"Menu entry: 'Select the default profile'"
 	},
-	"menuUpdateRule": {
-		"message": "Select the profile of the current rule",
-		"description": "Menu entry: 'Select the profile of the current rule'"
+	"menuUpdateRule":{
+		"message":"Selecteer het profiel van de huidige regel",
+		"description":"Menu entry: 'Select the profile of the current rule'"
 	},
-	"menuCreateDomainRule": {
-		"message": "Select the profile of the current domain",
-		"description": "Menu entry: 'Select the profile of the current domain'"
+	"menuCreateDomainRule":{
+		"message":"Selecteer het profiel van het huidige domein",
+		"description":"Menu entry: 'Select the profile of the current domain'"
 	},
-	"menuSaveSelection": {
-		"message": "Save selection",
-		"description": "Menu entry: 'Save selection'"
+	"menuSaveSelection":{
+		"message":"Sla selectie op",
+		"description":"Menu entry: 'Save selection'"
 	},
-	"menuSaveFrame": {
-		"message": "Save frame",
-		"description": "Menu entry: 'Save frame'"
+	"menuSaveFrame":{
+		"message":"Sla frame op",
+		"description":"Menu entry: 'Save frame'"
 	},
-	"menuSaveTabs": {
-		"message": "Save tabs",
-		"description": "Menu entry (SingleFile button only): 'Save tabs'"
+	"menuSaveTabs":{
+		"message":"Sla tabbladen op",
+		"description":"Menu entry (SingleFile button only): 'Save tabs'"
 	},
-	"menuSaveSelectedTabs": {
-		"message": "Save selected tabs",
-		"description": "Menu entry: 'Save selected tabs'"
+	"menuSaveSelectedTabs":{
+		"message":"Sla geselecteerde tabbladen op",
+		"description":"Menu entry: 'Save selected tabs'"
 	},
-	"menuSaveUnpinnedTabs": {
-		"message": "Save unpinned tabs",
-		"description": "Menu entry: 'Save unpinned tabs'"
+	"menuSaveUnpinnedTabs":{
+		"message":"Sla niet vastgezette tabbladen op",
+		"description":"Menu entry: 'Save unpinned tabs'"
 	},
-	"menuSaveAllTabs": {
-		"message": "Save all tabs",
-		"description": "Menu entry: 'Save all tabs'"
+	"menuSaveAllTabs":{
+		"message":"Sla alle tabbladen op",
+		"description":"Menu entry: 'Save all tabs'"
 	},
-	"menuBatchSaveUrls": {
-		"message": "Batch save URLs...",
-		"description": "Menu entry: 'Batch save URLs...'"
+	"menuBatchSaveUrls":{
+		"message":"URL's in batches opslaan...",
+		"description":"Menu entry: 'Batch save URLs...'"
 	},
-	"menuAutoSave": {
-		"message": "Auto-save",
-		"description": "Menu entry: 'Auto-save'"
+	"menuAutoSave":{
+		"message":"Automatisch opslaan",
+		"description":"Menu entry: 'Auto-save'"
 	},
-	"menuAutoSaveDisabled": {
-		"message": "Disabled",
-		"description": "Menu entry: 'Auto-save' > Disabled'"
+	"menuAutoSaveDisabled":{
+		"message":"Uitgeschakeld",
+		"description":"Menu entry: 'Auto-save' > Disabled'"
 	},
-	"menuAutoSaveTab": {
-		"message": "Auto-save this tab",
-		"description": "Menu entry: 'Auto-save' > Auto-save this tab'"
+	"menuAutoSaveTab":{
+		"message":"Sla dit tabblad automatisch op",
+		"description":"Menu entry: 'Auto-save' > Auto-save this tab'"
 	},
-	"menuAutoSaveUnpinnedTabs": {
-		"message": "Auto-save unpinned tabs",
-		"description": "Menu entry: 'Auto-save' > Auto-save unpinned tabs'"
+	"menuAutoSaveUnpinnedTabs":{
+		"message":"Sla niet vastgezette tabbladen automatisch op",
+		"description":"Menu entry: 'Auto-save' > Auto-save unpinned tabs'"
 	},
-	"menuAutoSaveAllTabs": {
-		"message": "Auto-save all tabs",
-		"description": "Menu entry: 'Auto-save' > Auto-save all tabs'"
+	"menuAutoSaveAllTabs":{
+		"message":"Sla alle tabbladen automatisch op",
+		"description":"Menu entry: 'Auto-save' > Auto-save all tabs'"
 	},
-	"buttonDefaultTooltip": {
-		"message": "Save page with SingleFile",
-		"description": "Button title: 'Save page with SingleFile'"
+	"buttonDefaultTooltip":{
+		"message":"Sla pagina op met SingleFile",
+		"description":"Button title: 'Save page with SingleFile'"
 	},
-	"buttonBlockedBadge": {
-		"message": "🚫",
-		"description": "Button badge when the page is blocked: '🚫'"
+	"buttonBlockedBadge":{
+		"message":"🚫",
+		"description":"Button badge when the page is blocked: '🚫'"
 	},
-	"buttonBlockedTooltip": {
-		"message": "This page cannot be saved with SingleFile",
-		"description": "Button title: 'This page cannot be saved with SingleFile'"
+	"buttonBlockedTooltip":{
+		"message":"Deze pagina kan niet worden opgeslagen met SingleFile",
+		"description":"Button title: 'This page cannot be saved with SingleFile'"
 	},
-	"buttonInitializingTooltip": {
-		"message": "Initializing SingleFile",
-		"description": "Button title during initialization: 'Initializing SingleFile (x/2)'"
+	"buttonInitializingTooltip":{
+		"message":"SingleFile initialiseren",
+		"description":"Button title during initialization: 'Initializing SingleFile (x/2)'"
 	},
-	"buttonInitializingBadge": {
-		"message": "•••",
-		"description": "Badge label during initialization: '•••'"
+	"buttonInitializingBadge":{
+		"message":"•••",
+		"description":"Badge label during initialization: '•••'"
 	},
-	"buttonSaveProgressTooltip": {
-		"message": "Save progress: ",
-		"description": "Button title during save: 'Save progress: xx%'"
+	"buttonSaveProgressTooltip":{
+		"message":"Opslagvoortgang: ",
+		"description":"Button title during save: 'Save progress: xx%'"
 	},
-	"buttonUploadProgressTooltip": {
-		"message": "Upload progress: ",
-		"description": "Button title during save: 'Upload progress: xx%'"
+	"buttonUploadProgressTooltip":{
+		"message":"Uploadvoortgang: ",
+		"description":"Button title during save: 'Upload progress: xx%'"
 	},
-	"buttonOKBadge": {
-		"message": "OK",
-		"description": "Badge label: 'OK'"
+	"buttonOKBadge":{
+		"message":"OK",
+		"description":"Badge label: 'OK'"
 	},
-	"buttonErrorBadge": {
-		"message": "ERR",
-		"description": "Badge label for unexpected errors"
+	"buttonErrorBadge":{
+		"message":"ERR",
+		"description":"Badge label for unexpected errors"
 	},
-	"buttonAutoSaveActiveTooltip": {
-		"message": "Auto-save active",
-		"description": "Button title: 'Auto-save active'"
+	"buttonAutoSaveActiveTooltip":{
+		"message":"Automatisch opslaan actief",
+		"description":"Button title: 'Auto-save active'"
 	},
-	"buttonAutoSaveActiveBadge": {
-		"message": "[A]",
-		"description": "Badge label when auto-save is active"
+	"buttonAutoSaveActiveBadge":{
+		"message":"[A]",
+		"description":"Badge label when auto-save is active"
 	},
-	"optionsTitle": {
-		"message": "Options",
-		"description": "Options page title"
+	"optionsTitle":{
+		"message":"Opties",
+		"description":"Options page title"
 	},
-	"optionsUserInterfaceSubTitle": {
-		"message": "User interface",
-		"description": "Options sub-title: 'User interface'"
+	"optionsUserInterfaceSubTitle":{
+		"message":"Gebruikersinterface",
+		"description":"Options sub-title: 'User interface'"
 	},
-	"optionAddMenuEntry": {
-		"message": "add entry in the context menu of the webpage",
-		"description": "Options page label: 'add entry in the context menu of the webpage'"
+	"optionAddMenuEntry":{
+		"message":"voeg een item toe aan het contextmenu van de webpagina",
+		"description":"Options page label: 'add entry in the context menu of the webpage'"
 	},
-	"optionDisplayShadow": {
-		"message": "overlay a shadow on the page during processing",
-		"description": "Options page label: 'overlay a shadow on the page during processing'"
+	"optionDisplayShadow":{
+		"message":"plaats een schaduw over de pagina tijdens het verwerken",
+		"description":"Options page label: 'overlay a shadow on the page during processing'"
 	},
-	"optionDisplayInfobar": {
-		"message": "display an infobar when viewing a saved page",
-		"description": "Options page label: 'display an infobar when viewing a saved page'"
+	"optionDisplayInfobar":{
+		"message":"toon een infobalk bij het bekijken van een opgeslagen pagina",
+		"description":"Options page label: 'display an infobar when viewing a saved page'"
 	},
-	"optionInfobarTemplate": {
-		"message": "template of the infobar content",
-		"description": "Options page label: 'template of the infobar content'"
+	"optionInfobarTemplate":{
+		"message":"sjabloon van de infobalkinhoud",
+		"description":"Options page label: 'template of the infobar content'"
 	},
-	"optionBlockMixedContent": {
-		"message": "block mixed content",
-		"description": "Options page label: 'block mixed content'"
+	"optionBlockMixedContent":{
+		"message":"blokkeer gemengde inhoud",
+		"description":"Options page label: 'block mixed content'"
 	},
-	"optionSaveOriginalURLs": {
-		"message": "save original URLs of embedded resources",
-		"description": "Options page label: 'save original URLs of embedded resources'"
+	"optionSaveOriginalURLs":{
+		"message":"sla originele URL's van ingesloten bronnen op",
+		"description":"Options page label: 'save original URLs of embedded resources'"
 	},
-	"optionIncludeInfobar": {
-		"message": "include the infobar in the saved page",
-		"description": "Options page label: 'include the infobar in the saved page'"
+	"optionIncludeInfobar":{
+		"message":"neem de infobalk op in de opgeslagen pagina",
+		"description":"Options page label: 'include the infobar in the saved page'"
 	},
-	"optionRemoveInfobarSavedDate": {
-		"message": "do not include the saved date",
-		"description": "Options page label: 'do not include the saved date'"
+	"optionRemoveInfobarSavedDate":{
+		"message":"sla de opgeslagen datum niet op",
+		"description":"Options page label: 'do not include the saved date'"
 	},
-	"optionConfirmInfobar": {
-		"message": "open a prompt dialog to edit the infobar content",
-		"description": "Options page label: 'open a prompt dialog to edit the infobar content'"
+	"optionConfirmInfobar":{
+		"message":"open een promptvenster om de inhoud van de infobalk te bewerken",
+		"description":"Options page label: 'open a prompt dialog to edit the infobar content'"
 	},
-	"optionAutoClose": {
-		"message": "auto-close the tab after the page is saved",
-		"description": "Options page label: 'auto-close the tab after the page is saved'"
+	"optionAutoClose":{
+		"message":"sluit het tabblad automatisch na het opslaan van de pagina",
+		"description":"Options page label: 'auto-close the tab after the page is saved'"
 	},
-	"optionsFileNameSubTitle": {
-		"message": "File name",
-		"description": "Options sub-title: 'File name'"
+	"optionsFileNameSubTitle":{
+		"message":"Bestandsnaam",
+		"description":"Options sub-title: 'File name'"
 	},
-	"optionFilenameTemplate": {
-		"message": "template",
-		"description": "Options page label: 'template'"
+	"optionFilenameTemplate":{
+		"message":"sjabloon",
+		"description":"Options page label: 'template'"
 	},
-	"optionFilenameMaxLength": {
-		"message": "max length",
-		"description": "Options page label: 'max length'"
+	"optionFilenameMaxLength":{
+		"message":"maximale lengte",
+		"description":"Options page label: 'max length'"
 	},
-	"optionFilenameMaxLengthBytesUnit": {
-		"message": "bytes",
-		"description": "Options page label: 'bytes'"
+	"optionFilenameMaxLengthBytesUnit":{
+		"message":"bytes",
+		"description":"Options page label: 'bytes'"
 	},
-	"optionFilenameMaxLengthCharsUnit": {
-		"message": "characters",
-		"description": "Options page label: 'characters'"
+	"optionFilenameMaxLengthCharsUnit":{
+		"message":"tekens",
+		"description":"Options page label: 'characters'"
 	},
-	"optionFilenameReplacementCharacter": {
-		"message": "replacement character",
-		"description": "Options page label: 'replacement character'"
+	"optionFilenameReplacementCharacter":{
+		"message":"vervangend teken",
+		"description":"Options page label: 'replacement character'"
 	},
-	"optionReplaceEmojisInFilename": {
-		"message": "replace emojis with text",
-		"description": "Options page label: 'replace emojis with text'"
+	"optionReplaceEmojisInFilename":{
+		"message":"vervang emoji's door tekst",
+		"description":"Options page label: 'replace emojis with text'"
 	},
-	"optionSaveFilenameTemplateData": {
-		"message": "save the filename template data into the page",
-		"description": "Options page label: 'save the filename template data into the page'"
+	"optionSaveFilenameTemplateData":{
+		"message":"sla de bestandsnaamsjabloongegevens op in de pagina",
+		"description":"Options page label: 'save the filename template data into the page'"
 	},
-	"optionConfirmFilename": {
-		"message": "open the \"Save as\" dialog to confirm the file name",
-		"description": "Options page label: 'open the \"Save as\" dialog to confirm the file name'"
+	"optionConfirmFilename":{
+		"message":"open het \"Opslaan als\"-venster om de bestandsnaam te bevestigen",
+		"description":"Options page label: 'open the \"Save as\" dialog to confirm the file name'"
 	},
-	"optionFilenameConflictAction": {
-		"message": "file name conflict resolution",
-		"description": "Options page label: 'filename conflict resolution'"
+	"optionFilenameConflictAction":{
+		"message":"gebruik een unieke bestandsnaam",
+		"description":"Options page label: 'filename conflict resolution'"
 	},
-	"optionFilenameConflictActionUniquify": {
-		"message": "create a unique name",
-		"description": "Value for 'filename conflict resolution' option: 'create a unique name'"
+	"optionFilenameConflictActionUniquify":{
+		"message":"gebruik een unieke naam",
+		"description":"Value for 'filename conflict resolution' option: 'create a unique name'"
 	},
-	"optionFilenameConflictActionOverwrite": {
-		"message": "overwrite the existing file",
-		"description": "Value for 'filename conflict resolution' option: 'overwrite the existing file'"
+	"optionFilenameConflictActionOverwrite":{
+		"message":"overschrijf het bestaande bestand",
+		"description":"Value for 'filename conflict resolution' option: 'overwrite the existing file'"
 	},
-	"optionFilenameConflictActionPrompt": {
-		"message": "prompt for a name",
-		"description": "Value for 'name conflict resolution' option: 'prompt for a name'"
+	"optionFilenameConflictActionPrompt":{
+		"message":"dialoogvenster voor het invoeren van een bestandsnaam",
+		"description":"Value for 'name conflict resolution' option: 'prompt for a name'"
 	},
-	"optionFilenameConflictActionSkip": {
-		"message": "skip duplicate files",
-		"description": "Value for 'filename conflict resolution' option: 'skip duplicate files'"
+	"optionFilenameConflictActionSkip":{
+		"message":"sla dubbele bestanden over",
+		"description":"Value for 'filename conflict resolution' option: 'skip duplicate files'"
 	},
 	"optionsHTMLContentSubTitle": {
 		"message": "HTML content",

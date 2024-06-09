@@ -243,209 +243,209 @@
 		"message":"sla dubbele bestanden over",
 		"description":"Value for 'filename conflict resolution' option: 'skip duplicate files'"
 	},
-	"optionsHTMLContentSubTitle": {
-		"message": "HTML content",
-		"description": "Options sub-title: 'HTML content'"
+	"optionsHTMLContentSubTitle":{
+		"message":"HTML-inhoud",
+		"description":"Options sub-title: 'HTML content'"
 	},
-	"optionCompressHTML": {
-		"message": "compress HTML content",
-		"description": "Options page label: 'compress HTML content'"
+	"optionCompressHTML":{
+		"message":"comprimeer HTML-inhoud",
+		"description":"Options page label: 'compress HTML content'"
 	},
-	"optionRemoveFrames": {
-		"message": "remove frames",
-		"description": "Options page label: 'remove frames'"
+	"optionRemoveFrames":{
+		"message":"verwijder frames",
+		"description":"Options page label: 'remove frames'"
 	},
-	"optionRemoveHiddenElements": {
-		"message": "remove hidden elements",
-		"description": "Options page label: 'remove hidden elements'"
+	"optionRemoveHiddenElements":{
+		"message":"verwijder verborgen elementen",
+		"description":"Options page label: 'remove hidden elements'"
 	},
-	"optionsFileFormatSubTitle": {
-		"message": "File format",
-		"description": "Options sub-title: 'File format'"
+	"optionsFileFormatSubTitle":{
+		"message":"Bestandsformaat",
+		"description":"Options sub-title: 'File format'"
 	},
-	"optionFileFormat": {
-		"message": "format",
-		"description": "Options page label: 'format'"
+	"optionFileFormat":{
+		"message":"formaat",
+		"description":"Options page label: 'format'"
 	},
-	"optionFileFormatSelectHTML": {
-		"message": "HTML",
-		"description": "Options page label: 'HTML'"
+	"optionFileFormatSelectHTML":{
+		"message":"HTML",
+		"description":"Options page label: 'HTML'"
 	},
-	"optionFileFormatSelectSelfExtractingUniversal": {
-		"message": "self-extracting ZIP (universal)",
-		"description": "Options page label: 'self-extracting ZIP (universal)'"
+	"optionFileFormatSelectSelfExtractingUniversal":{
+		"message":"zelfuitpakkend ZIP (universeel)",
+		"description":"Options page label: 'self-extracting ZIP (universal)'"
 	},
-	"optionFileFormatSelectSelfExtracting": {
-		"message": "self-extracting ZIP",
-		"description": "Options page label: 'self-extracting ZIP'"
+	"optionFileFormatSelectSelfExtracting":{
+		"message":"zelfuitpakkend ZIP",
+		"description":"Options page label: 'self-extracting ZIP'"
 	},
-	"optionFileFormatSelectZIP": {
-		"message": "ZIP",
-		"description": "Options page label: 'ZIP'"
+	"optionFileFormatSelectZIP":{
+		"message":"ZIP",
+		"description":"Options page label: 'ZIP'"
 	},
-	"optionPassword": {
-		"message": "password",
-		"description": "Options page label: 'password'"
+	"optionPassword":{
+		"message":"wachtwoord",
+		"description":"Options page label: 'password'"
 	},
-	"optionCreateRootDirectory": {
-		"message": "create a root directory",
-		"description": "Options page label: 'create a root directory'"
+	"optionCreateRootDirectory":{
+		"message":"maak een hoofdmap",
+		"description":"Options page label: 'create a root directory'"
 	},
-	"optionPreventAppendedData": {
-		"message": "do not append data after the ZIP data",
-		"description": "Options page label: 'do not append data after the ZIP data'"
+	"optionPreventAppendedData":{
+		"message":"voeg geen gegevens toe na de ZIP-gegevens",
+		"description":"Options page label: 'do not append data after the ZIP data'"
 	},
-	"optionInsertTextBody": {
-		"message": "make text searchable",
-		"description": "Options page label: 'make text searchable'"
+	"optionInsertTextBody":{
+		"message":"maak tekst doorzoekbaar",
+		"description":"Options page label: 'make text searchable'"
 	},
-	"optionInsertEmbeddedImage": {
-		"message": "embed image",
-		"description": "Options page label: 'embed image'"
+	"optionInsertEmbeddedImage":{
+		"message":"insluiten afbeelding",
+		"description":"Options page label: 'embed image'"
 	},
-	"optionInsertEmbeddedScreenshotImage": {
-		"message": "page screenshot",
-		"description": "Options page label: 'page screenshot'"
+	"optionInsertEmbeddedScreenshotImage":{
+		"message":"schermafbeelding",
+		"description":"Options page label: 'page screenshot'"
 	},
-	"optionInsertEmbeddedCustomImage": {
-		"message": "custom image",
-		"description": "Options page label: 'custom image'"
+	"optionInsertEmbeddedCustomImage":{
+		"message":"aangepaste afbeelding",
+		"description":"Options page label: 'custom image'"
 	},
-	"optionsInfobarSubTitle": {
-		"message": "Infobar",
-		"description": "Options sub-title: 'Infobar'"
+	"optionsInfobarSubTitle":{
+		"message":"Infobalk",
+		"description":"Options sub-title: 'Infobar'"
 	},
-	"optionsImagesSubTitle": {
-		"message": "Images",
-		"description": "Options sub-title: 'Images'"
+	"optionsImagesSubTitle":{
+		"message":"Afbeeldingen",
+		"description":"Options sub-title: 'Images'"
 	},
-	"optionGroupDuplicateImages": {
-		"message": "group duplicate images together",
-		"description": "Options page label: 'group duplicate images together'"
+	"optionGroupDuplicateImages":{
+		"message":"dubbele afbeeldingen samenvoegen",
+		"description":"Options page label: 'group duplicate images together'"
 	},
-	"optionLoadDeferredImages": {
-		"message": "save deferred images",
-		"description": "Options page label: 'save deferred images'"
+	"optionLoadDeferredImages":{
+		"message":"uitgestelde afbeeldingen opslaan",
+		"description":"Options page label: 'save deferred images'"
 	},
-	"optionLoadDeferredImagesMaxIdleTime": {
-		"message": "maximum idle time (ms)",
-		"description": "Options page label: 'maximum idle time (ms)'"
+	"optionLoadDeferredImagesMaxIdleTime":{
+		"message":"maximale wachttijd (ms)",
+		"description":"Options page label: 'maximum idle time (ms)'"
 	},
-	"optionLoadDeferredImagesKeepZoomLevel": {
-		"message": "zoom out the page",
-		"description": "Options page label: 'zoom out the page'"
+	"optionLoadDeferredImagesKeepZoomLevel":{
+		"message":"zoom uit op de pagina",
+		"description":"Options page label: 'zoom out the page'"
 	},
-	"optionLoadDeferredImagesDispatchScrollEvent": {
-		"message": "dispatch \"scroll\" event",
-		"description": "Options page label: 'dispatch \"scroll\" event'"
+	"optionLoadDeferredImagesDispatchScrollEvent":{
+		"message":"verzend \"scroll\"-gebeurtenis",
+		"description":"Options page label: 'dispatch \"scroll\" event'"
 	},
-	"optionLoadDeferredImagesBeforeFrames": {
-		"message": "load deferred frames",
-		"description": "Options page label: 'load deferred frames'"
+	"optionLoadDeferredImagesBeforeFrames":{
+		"message":"laad uitgestelde frames",
+		"description":"Options page label: 'load deferred frames'"
 	},
-	"optionRemoveAlternativeImages": {
-		"message": "remove images for alternative screen resolutions",
-		"description": "Options page label: 'remove images for alternative screen resolutions'"
+	"optionRemoveAlternativeImages":{
+		"message":"verwijder afbeeldingen voor alternatieve schermresoluties",
+		"description":"Options page label: 'remove images for alternative screen resolutions'"
 	},
-	"optionsFontsSubTitle": {
-		"message": "Fonts",
-		"description": "Options sub-title: 'Fonts'"
+	"optionsFontsSubTitle":{
+		"message":"Lettertypen",
+		"description":"Options sub-title: 'Fonts'"
 	},
-	"optionRemoveUnusedFonts": {
-		"message": "remove unused fonts",
-		"description": "Options page label: 'remove unused fonts'"
+	"optionRemoveUnusedFonts":{
+		"message":"verwijder ongebruikte lettertypen",
+		"description":"Options page label: 'remove unused fonts'"
 	},
-	"optionRemoveAlternativeFonts": {
-		"message": "remove alternative fonts",
-		"description": "Options page label: 'remove alternative fonts'"
+	"optionRemoveAlternativeFonts":{
+		"message":"verwijder alternatieve lettertypen",
+		"description":"Options page label: 'remove alternative fonts'"
 	},
-	"optionsStylesheetsSubTitle": {
-		"message": "Stylesheets",
-		"description": "Options sub-title: 'Stylesheets'"
+	"optionsStylesheetsSubTitle":{
+		"message":"Stijlbladen",
+		"description":"Options sub-title: 'Stylesheets'"
 	},
-	"optionCompressCSS": {
-		"message": "compress CSS content",
-		"description": "Options page label: 'compress CSS content'"
+	"optionCompressCSS":{
+		"message":"CSS-inhoud comprimeren",
+		"description":"Options page label: 'compress CSS content'"
 	},
-	"optionMoveStylesInHead": {
-		"message": "move in the head element the styles found outside of it",
-		"description": "Options page label: 'move in the head element the styles found outside of it'"
+	"optionMoveStylesInHead":{
+		"message":"verplaats de stijlen die zich buiten het head-element bevinden",
+		"description":"Options page label: 'move in the head element the styles found outside of it'"
 	},
-	"optionRemoveUnusedStyles": {
-		"message": "remove unused styles",
-		"description": "Options page label: 'remove unused styles'"
+	"optionRemoveUnusedStyles":{
+		"message":"verwijder ongebruikte stijlen",
+		"description":"Options page label: 'remove unused styles'"
 	},
-	"optionRemoveAlternativeMedias": {
-		"message": "remove stylesheets for alternative devices to screens",
-		"description": "Options page label: 'remove stylesheets for alternative devices to screens'"
+	"optionRemoveAlternativeMedias":{
+		"message":"verwijder stijlbladen voor alternatieve apparaten",
+		"description":"Options page label: 'remove stylesheets for alternative devices to screens'"
 	},
-	"optionsNetworkSubTitle": {
-		"message": "Network",
-		"description": "Options sub-title: 'Network'"
+	"optionsNetworkSubTitle":{
+		"message":"Netwerk",
+		"description":"Options sub-title: 'Network'"
 	},
-	"optionsBlockedResources": {
-		"message": "blocked resources",
-		"description": "Options page label: 'blocked resources'"
+	"optionsBlockedResources":{
+		"message":"geblokkeerde bronnen",
+		"description":"Options page label: 'blocked resources'"
 	},
-	"optionsAcceptHeaders": {
-		"message": "\"Accept\" header",
-		"description": "Options page label: '\"Accept\" header'"
+	"optionsAcceptHeaders":{
+		"message":"\"Accept\"-koptekst",
+		"description":"Options page label: '\"Accept\" header'"
 	},
-	"optionResourceScript": {
-		"message": "scripts",
-		"description": "Options page label: 'scripts'"
+	"optionResourceScript":{
+		"message":"scripts",
+		"description":"Options page label: 'scripts'"
 	},
-	"optionResourceVideo": {
-		"message": "videos",
-		"description": "Options page label: 'videos'"
+	"optionResourceVideo":{
+		"message":"video's",
+		"description":"Options page label: 'videos'"
 	},
-	"optionResourceAudio": {
-		"message": "audios",
-		"description": "Options page label: 'audios'"
+	"optionResourceAudio":{
+		"message":"audio's",
+		"description":"Options page label: 'audios'"
 	},
-	"optionResourceDocument": {
-		"message": "documents",
-		"description": "Options page label: 'documents'"
+	"optionResourceDocument":{
+		"message":"documenten",
+		"description":"Options page label: 'documents'"
 	},
-	"optionResourceFont": {
-		"message": "fonts",
-		"description": "Options page label: 'fonts'"
+	"optionResourceFont":{
+		"message":"lettertypen",
+		"description":"Options page label: 'fonts'"
 	},
-	"optionResourceStylesheet": {
-		"message": "stylesheets",
-		"description": "Options page label: 'stylesheets'"
+	"optionResourceStylesheet":{
+		"message":"stijlbladen",
+		"description":"Options page label: 'stylesheets'"
 	},
-	"optionResourceImage": {
-		"message": "images",
-		"description": "Options page label: 'images'"
+	"optionResourceImage":{
+		"message":"afbeeldingen",
+		"description":"Options page label: 'images'"
 	},
-	"optionsDestinationSubTitle": {
-		"message": "Destination",
-		"description": "Options sub-title: 'Destination'"
+	"optionsDestinationSubTitle":{
+		"message":"Bestemming",
+		"description":"Options sub-title: 'Destination'"
 	},
-	"optionsBookmarkSubTitle": {
-		"message": "Bookmarks",
-		"description": "Options sub-title: 'Bookmarks'"
+	"optionsBookmarkSubTitle":{
+		"message":"Bladwijzers",
+		"description":"Options sub-title: 'Bookmarks'"
 	},
-	"optionsAutoSaveSubTitle": {
-		"message": "Auto-save",
-		"description": "Options sub-title: 'Auto-save'"
+	"optionsAutoSaveSubTitle":{
+		"message":"Automatisch opslaan",
+		"description":"Options sub-title: 'Auto-save'"
 	},
-	"optionsAutoSettingsSubTitle": {
-		"message": "Auto-settings rules",
-		"description": "Options sub-title: 'Auto-settings rules'"
+	"optionsAutoSettingsSubTitle":{
+		"message":"Regels voor automatische configuratie",
+		"description":"Options sub-title: 'Auto-settings rules'"
 	},
-	"optionsDeleteDisplayedRulesConfirm": {
-		"message": "Confirm the deletion of all displayed rules",
-		"description": "Popup text 'Confirm the deletion of all displayed rules'"
+	"optionsDeleteDisplayedRulesConfirm":{
+		"message":"Bevestig het verwijderen van alle weergegeven regels",
+		"description":"Popup text 'Confirm the deletion of all displayed rules'"
 	},
-	"optionsDeleteRulesTooltip": {
-		"message": "Delete all displayed rules",
-		"description": "Popup text 'Delete all displayed rules'"
+	"optionsDeleteRulesTooltip":{
+		"message":"Verwijder alle weergegeven regels",
+		"description":"Popup text 'Delete all displayed rules'"
 	},
-	"optionsAutoSettingsUrl": {
-		"message": "URL",
-		"description": "Options label in the Auto-settings rules: 'URL'"
+	"optionsAutoSettingsUrl":{
+		"message":"URL",
+		"description":"Options label in the Auto-settings rules: 'URL'"
 	},
 	"optionsAutoSettingsUrlPlaceholder": {
 		"message": "Type a complete or partial URL (e.g. example.com)",

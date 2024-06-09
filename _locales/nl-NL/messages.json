@@ -519,480 +519,480 @@
 		"message":"periode (s.)",
 		"description":"Options page label: 'period (s)'"
 	},
-    "optionAutoSaveExternalSave": {
-        "message": "pagina opslaan met SingleFile Companion",
-        "description": "Options page label: 'save the page with SingleFile Companion'"
-    },
-    "optionsEditorSubTitle": {
-        "message": "Annotatie-editor",
-        "description": "Options sub-title: 'Annotation editor'"
-    },
-    "optionOpenEditor": {
-        "message": "pagina annoteren voor opslaan",
-        "description": "Options page label: 'annotate the page before saving'"
-    },
-    "optionOpenSavedPage": {
-        "message": "opgeslagen pagina's openen in een nieuw tabblad",
-        "description": "Options page label: 'open saved pages in a new tab'"
-    },
-    "optionAutoOpenEditor": {
-        "message": "open pagina's opgeslagen met SingleFile in de annotatie-editor",
-        "description": "Options page label: 'open pages saved with SingleFile in the annotation editor'"
-    },
-    "optionDefaultEditorMode": {
-        "message": "standaardmodus",
-        "description": "Options page label: 'default mode'"
-    },
-    "optionDefaultEditorModeNormal": {
-        "message": "normaal",
-        "description": "Options page label: 'default mode > normal'"
-    },
-    "optionDefaultEditorModeEdit": {
-        "message": "bewerk de pagina",
-        "description": "Options page label: 'default mode > edit the page'"
-    },
-    "optionDefaultEditorModeFormat": {
-        "message": "formatteer de pagina",
-        "description": "Options page label: 'default mode > format the page'"
-    },
-    "optionDefaultEditorModeCut": {
-        "message": "verwijder elementen",
-        "description": "Options page label: 'default mode > remove elements'"
-    },
-    "optionDefaultEditorModeCutExternal": {
-        "message": "verwijder externe elementen",
-        "description": "Options page label: 'default mode > remove external elements'"
-    },
-    "optionApplySystemTheme": {
-        "message": "pas systeemthema toe bij formatteren van pagina",
-        "description": "Title of the button 'apply the system theme when formatting a page'"
-    },
-    "optionWarnUnsavedPage": {
-        "message": "waarschuwen bij verlaten van pagina met niet-opgeslagen wijzigingen",
-        "description": "Title of the button 'warn if leaving page with unsaved changes'"
-    },
-    "optionDisplayInfobarInEditor": {
-        "message": "toon infobalk",
-        "description": "Title of the button 'display the infobar'"
-    },
-    "optionsMiscSubTitle": {
-        "message": "Diversen",
-        "description": "Options sub-title: 'Misc.'"
-    },
-    "optionBackgroundSave": {
-        "message": "sla pagina's op in de achtergrond",
-        "description": "Options page label: 'save pages in background'"
-    },
-    "optionDisplayStats": {
-        "message": "toon statistieken in console na verwerking",
-        "description": "Options page label: 'display stats in the console after processing'"
-    },
-    "optionSetMaxResourceSize": {
-        "message": "stel maximale grootte in",
-        "description": "Options page label: 'set maximum size'"
-    },
-    "optionMaxResourceSize": {
-        "message": "maximale grootte (MB)",
-        "description": "Options page label: 'maximum size (MB)'"
-    },
-    "optionSetMaxResourceDelay": {
-        "message": "stel maximale downloadtijd in",
-        "description": "Options page label: 'set maximum download time'"
-    },
-    "optionMaxResourceDelay": {
-        "message": "maximale downloadtijd (s)",
-        "description": "Options page label: 'maximum download time (s)'"
-    },
-    "optionPassReferrerOnError": {
-        "message": "stuur \"Referer\"-header na een cross-origin verzoekfout",
-        "description": "Options page label: 'pass \"Referer\" header after a cross-origin request error'"
-    },
-    "optionSaveRawPage": {
-        "message": "Originele pagina opslaan",
-        "description": "Options page label: 'save raw page'"
-    },
-    "optionInsertMetaCSP": {
-        "message": "inhoudsbeveiligingsbeleid instellen",
-        "description": "Options page label: 'set content security policy'"
-    },
-    "optionSaveToClipboard": {
-        "message": "kopieer naar klembord",
-        "description": "Options page label: 'copy to clipboard'"
-    },
-    "optionSaveToFilesystem": {
-        "message": "opslaan in bestandssysteem",
-        "description": "Options page label: 'save to filesystem'"
-    },
-    "optionSharePage": {
-        "message": "deel pagina",
-        "description": "Options page label: 'share page'"
-    },
-    "optionAddProof": {
-        "message": "voeg bewijs van bestaan toe",
-        "description": "Options page label: 'add proof of existence'"
-    },
-    "optionsAddProofConfirm": {
-        "message": "Bevestig dat je SingleFile toestaat een SHA256-hash van elke pagina die je opslaat naar de Woleet API te sturen. Meer informatie vind je op de helppagina of door op het vraagteken naast de optie te klikken.",
-        "description": "Popup text displayed wen enabling the option 'add proof of existence'"
-    },
-    "optionWoleetKey": {
-        "message": "toegangstoken",
-        "description": "Options page label: 'access token'"
-    },
-    "optionSaveToGDrive": {
-        "message": "upload naar Google Drive",
-        "description": "Options page label: 'upload to Google Drive'"
-    },
-    "optionSaveToDropbox": {
-        "message": "upload naar Dropbox",
-        "description": "Options page label: 'upload to Dropbox'"
-    },
-    "optionSaveToGitHub": {
-        "message": "upload naar GitHub",
-        "description": "Options page label: 'upload to GitHub'"
-    },
-    "optionGitHubToken": {
-        "message": "toegangstoken",
-        "description": "Options page label: 'access token'"
-    },
-    "optionGitHubUser": {
-        "message": "gebruikersnaam",
-        "description": "Options page label: 'user name'"
-    },
-    "optionGitHubRepository": {
-        "message": "naam van de repository",
-        "description": "Options page label: 'repository name'"
-    },
-    "optionGitHubBranch": {
-        "message": "naam van de branch",
-        "description": "Options page label: 'branch name'"
-    },
-    "optionSaveWithWebDAV": {
-        "message": "upload naar een WebDAV-server",
-        "description": "Options page label: 'upload to a WebDAV server'"
-    },
-    "optionWebDAVURL": {
-        "message": "URL",
-        "description": "Options page label: 'URL'"
-    },
-    "optionWebDAVUser": {
-        "message": "gebruikers-ID",
-        "description": "Options page label: 'user identifier'"
-    },
-    "optionWebDAVPassword": {
-        "message": "wachtwoord",
-        "description": "Options page label: 'password'"
-    },
-    "optionSaveWithCompanion": {
-        "message": "opslaan met SingleFile Companion",
-        "description": "Options page label: 'save with SingleFile Companion'"
-    },
-    "optionSaveCreatedBookmarks": {
-        "message": "bewaar de pagina van een nieuw gemaakte bladwijzer",
-        "description": "Options page label: 'save the page of a newly created bookmark'"
-    },
-    "optionReplaceBookmarkURL": {
-        "message": "koppel nieuwe bladwijzer aan opgeslagen pagina",
-        "description": "Options page label: 'link the new bookmark to the saved page'"
-    },
-    "optionAllowedBookmarkFolders": {
-        "message": "toegestane mappen",
-        "description": "Options page label: 'allowed folders'"
-    },
-    "optionIgnoredBookmarkFolders": {
-        "message": "genegeerde mappen",
-        "description": "Options page label: 'ignored folders'"
-    },
-    "optionsHelpLink": {
-        "message": "help",
-        "description": "Options help link"
-    },
-    "optionSynchronize": {
-        "message": "synchroniseer opties",
-        "description": "Options label: 'synchronize options'"
-    },
-    "optionsResetButton": {
-        "message": "Reset",
-        "description": "Options button: 'Reset'"
-    },
-    "optionsResetTooltip": {
-        "message": "Reset alle opties naar standaardwaarden",
-        "description": "Options 'Reset' button tooltip"
-    },
-    "optionsResetConfirm": {
-        "message": "Bevestig reset van alle opties of het huidige profiel",
-        "description": "Popup text 'Confirm the reset of all options or the current profile' in the options page"
-    },
-    "optionsResetAllButton": {
-        "message": "Reset alle opties",
-        "description": "Options confirm button: 'Reset all options'"
-    },
-    "optionsResetCurrentButton": {
-        "message": "Reset huidig profiel",
-        "description": "Options confirm button: 'Reset current profile'"
-    },
-    "optionsOKButton": {
-        "message": "OK",
-        "description": "Options confirm button: 'OK'"
-    },
-    "optionsCancelButton": {
-        "message": "Annuleer",
-        "description": "Options confirm button: 'Cancel'"
-    },
-    "optionsExportButton": {
-        "message": "Exporteer",
-        "description": "Options button: 'Export'"
-    },
-    "optionsImportButton": {
-        "message": "Importeer",
-        "description": "Options button: 'Import'"
-    },
-    "logPanelDeferredImages": {
-        "message": "Geplaatste afbeeldingen",
-        "description": "Label 'Deferred images' in the log panel"
-    },
-    "logPanelFrameContents": {
-        "message": "Inhoud van frames",
-        "description": "Label 'Frame contents' in the log panel"
-    },
-    "logPanelEmbeddedImage": {
-        "message": "Ingebedde afbeelding",
-        "description": "Label 'Embedded image' in the log panel"
-    },
-    "logPanelStep": {
-        "message": "Stap",
-        "description": "Label 'Step' (for 'Step x / 4') in the log panel"
-    },
-    "logPanelWidth": {
-        "message": "147",
-        "description": "Width of the log panel in pixels, it should be adjusted for the longest label beginning with 'log' (e.g. 'logPanelDeferredImages')"
-    },
-    "topPanelError": {
-        "message": "SingleFile fout: ",
-        "description": "Label 'SingleFile error: ' in the top panel when displaying an error message"
-    },
-    "topPanelEmbeddedImageButton": {
-        "message": "Afbeelding openen...",
-        "description": "Top panel button 'Open image...' when embedding an image"
-    },
-    "topPanelSharePageButton": {
-        "message": "Pagina delen...",
-        "description": "Top panel button 'Share page...' when sharing a page"
-    },
-    "topPanelShareSelectionButton": {
-        "message": "Selectie delen...",
-        "description": "Top panel button 'Share selection...' when sharing selected content"
-    },
-    "profileDefaultSettings": {
-        "message": "Standaardinstellingen",
-        "description": "Label 'Default settings' of the default settings in the options page"
-    },
-    "profileDisabled": {
-        "message": "Uitgeschakeld",
-        "description": "Label 'Disabled' of the disabled profile name in the options page"
-    },
-    "profileAddButtonTooltip": {
-        "message": "Nieuw profiel toevoegen",
-        "description": "Tooltip 'Add a new profile' in the options page"
-    },
-    "profileRenameButtonTooltip": {
-        "message": "Profiel hernoemen",
-        "description": "Tooltip 'Rename the profile' in the options page"
-    },
-    "profileDeleteButtonTooltip": {
-        "message": "Profiel verwijderen",
-        "description": "Tooltip 'Delete the profile' in the options page"
-    },
-    "profileAddPrompt": {
-        "message": "Voer een naam in voor dit nieuwe profiel",
-        "description": "Popup text 'Enter a name for this new profile' in the options page"
-    },
-    "profileDeleteConfirm": {
-        "message": "Bevestig de verwijdering van het geselecteerde profiel",
-        "description": "Popup text 'Confirm the deletion of the selected profile' in the options page"
-    },
-    "profileRenamePrompt": {
-        "message": "Voer een nieuwe naam in voor het geselecteerde profiel",
-        "description": "Popup text 'Enter a new name for the selected profile' in the options page"
-    },
-    "editorAddYellowNote": {
-        "message": "Gele notitie toevoegen",
-        "description": "Title of the button 'Add a yellow note' in the editor"
-    },
-    "editorAddPinkNote": {
-        "message": "Roze notitie toevoegen",
-        "description": "Title of the button 'Add a pink note' in the editor"
-    },
-    "editorAddBlueNote": {
-        "message": "Blauwe notitie toevoegen",
-        "description": "Title of the button 'Add a blue note' in the editor"
-    },
-    "editorAddGreenNote": {
-        "message": "Groene notitie toevoegen",
-        "description": "Title of the button 'Add a green note' in the editor"
-    },
-    "editorHighlightYellow": {
-        "message": "Markeer geselecteerde tekst in geel",
-        "description": "Title of the button 'Highlight selected text in yellow' in the editor"
-    },
-    "editorHighlightPink": {
-        "message": "Markeer geselecteerde tekst in roze",
-        "description": "Title of the button 'Highlight selected text in pink' in the editor"
-    },
-    "editorHighlightBlue": {
-        "message": "Markeer geselecteerde tekst in blauw",
-        "description": "Title of the button 'Highlight selected text in blue' in the editor"
-    },
-    "editorHighlightGreen": {
-        "message": "Markeer geselecteerde tekst in groen",
-        "description": "Title of the button 'Highlight selected text in green' in the editor"
-    },
-    "editorToggleNotes": {
-        "message": "Notities weergeven/verbergen",
-        "description": "Title of the button 'Display/hide notes' in the editor"
-    },
-    "editorToggleHighlights": {
-        "message": "Gemarkeerde tekst weergeven/verbergen",
-        "description": "Title of the button 'Display/hide the highlighted text' in the editor"
-    },
-    "editorRemoveHighlight": {
-        "message": "Verwijder de geselecteerde markering",
-        "description": "Title of the button 'Remove the selected highlighted text' in the editor"
-    },
-    "editorEditPage": {
-        "message": "In-/uitschakelen alleen-lezen modus",
-        "description": "Title of the button 'Enable/disable read-only' in the editor"
-    },
-    "editorFormatPage": {
-        "message": "Pagina formatteren voor betere leesbaarheid",
-        "description": "Title of the button 'Format the page for better readability' in the editor"
-    },
-    "editorCutInnerPage": {
-        "message": "In-/uitschakelen verwijderen van interne elementen",
-        "description": "Title of the button 'Enable/disable removing of internal elements' in the editor"
-    },
-    "editorCutOuterPage": {
-        "message": "In-/uitschakelen verwijderen van externe elementen",
-        "description": "Title of the button 'Enable/disable removing of external elements' in the editor"
-    },
-    "editorUndoCutPage": {
-        "message": "Laatste verwijderde element herstellen",
-        "description": "Title of the button 'Restore last removed element' in the editor"
-    },
-    "editorUndoAllCutPage": {
-        "message": "Alle verwijderde elementen herstellen",
-        "description": "Title of the button 'Restore all removed elements' in the editor"
-    },
-    "editorRedoCutPage": {
-        "message": "Laatste herstelde element verwijderen",
-        "description": "Title of the button 'Remove last restored element' in the editor"
-    },
-    "editorSavePage": {
-        "message": "Pagina opslaan",
-        "description": "Title of the button 'Save the page' in the editor"
-    },
-    "editorPrintPage": {
-        "message": "Pagina afdrukken",
-        "description": "Title of the button 'Print the page' in the editor"
-    },
-    "pendingsTitle": {
-        "message": "Opslaan in afwachting",
-        "description": "Title of the pending save page 'Pending saves' in the editor"
-    },
-    "pendingsCancelAllButton": {
-        "message": "Alles annuleren",
-        "description": "Pending saves button 'Cancel all'"
-    },
-    "pendingsURLTitle": {
-        "message": "URL",
-        "description": "Title of the first column in the table of the pending saves 'URL'"
-    },
-    "pendingsTitleTitle": {
-        "message": "Titel",
-        "description": "Title of the first column in the table of the pending saves 'Title'"
-    },
-    "pendingsStatusTitle": {
-        "message": "status",
-        "description": "Title of the second column in the table of the pending saves 'status'"
-    },
-    "pendingsPendingStatus": {
-        "message": "in afwachting",
-        "description": "Value of 'status' for pending saves"
-    },
-    "pendingsProcessingStatus": {
-        "message": "verwerken",
-        "description": "Value of 'status' for current saves"
-    },
-    "pendingsCancellingStatus": {
-        "message": "annuleren",
-        "description": "Value of 'status' for cancelled saves"
-    },
-    "pendingsNoPendings": {
-        "message": "er zijn geen opslaan in afwachting",
-        "description": "Label displayed when there are no pending saves"
-    },
-    "pendingsAddUrlsButton": {
-        "message": "URLs toevoegen",
-        "description": "button 'Add URLs'"
-    },
-    "pendingsAddUrls": {
-        "message": "Voer een lijst van URLs in, gescheiden door een nieuwe regel",
-        "description": "Label of the add URLs input"
-    },
-    "pendingsAddUrlsOKButton": {
-        "message": "OK",
-        "description": "Add URLs popup confirm button: 'OK'"
-    },
-    "pendingsAddUrlsCancelButton": {
-        "message": "Annuleren",
-        "description": "Add URLs popup cancel button: 'Cancel'"
-    },
-    "batchSaveUrlsTitle": {
-        "message": "Batch-URLs opslaan",
-        "description": "Title of the 'batch save URLs' page"
-    },
-    "batchSaveUrlsNoURLs": {
-        "message": "Geen URLs",
-        "description": "Label displayed when there are no URLs"
-    },
-    "batchSaveUrlsAddUrlButton": {
-        "message": "URL toevoegen",
-        "description": "label of the button 'Add URL'"
-    },
-    "batchSaveUrlsAddUrlsButton": {
-        "message": "URLs toevoegen...",
-        "description": "label of the button 'Add URLs...'"
-    },
-    "batchSaveUrlsRemoveAllButton": {
-        "message": "Alles verwijderen",
-        "description": "label of the button 'Remove all'"
-    },
-    "batchSaveUrlsSavePagesButton": {
-        "message": "Pagina's opslaan",
-        "description": "label of the button 'Save pages'"
-    },
-    "batchSaveUrlsURLTitle": {
-        "message": "URL",
-        "description": "Title of the column in the table of the URLs"
-    },
-    "optionSaveToRestFormApi": {
-        "message": "uploaden naar een REST Form API",
-        "description": "Options page label: 'upload to a REST Form API'"
-    },
-    "optionRestFormApiUrl": {
-        "message": "URL",
-        "description": "Options page label: 'URL'"
-    },
-    "optionRestFormApiToken": {
-        "message": "autorisatietoken",
-        "description": "Options page label: 'authorization token'"
-    },
-    "optionRestFormApiFileFieldName": {
-        "message": "veldnaam voor archiefdata",
-        "description": "Options page label: 'archive data field name'"
-    },
-    "optionRestFormApiUrlFieldName": {
-        "message": "veldnaam voor archief-URL",
-        "description": "Options page label: 'archive URL field name'"
-    }
+	"optionAutoSaveExternalSave": {
+		"message": "pagina opslaan met SingleFile Companion",
+		"description": "Options page label: 'save the page with SingleFile Companion'"
+	},
+	"optionsEditorSubTitle": {
+		"message": "Annotatie-editor",
+		"description": "Options sub-title: 'Annotation editor'"
+	},
+	"optionOpenEditor": {
+		"message": "pagina annoteren voor opslaan",
+		"description": "Options page label: 'annotate the page before saving'"
+	},
+	"optionOpenSavedPage": {
+		"message": "opgeslagen pagina's openen in een nieuw tabblad",
+		"description": "Options page label: 'open saved pages in a new tab'"
+	},
+	"optionAutoOpenEditor": {
+		"message": "open pagina's opgeslagen met SingleFile in de annotatie-editor",
+		"description": "Options page label: 'open pages saved with SingleFile in the annotation editor'"
+	},
+	"optionDefaultEditorMode": {
+		"message": "standaardmodus",
+		"description": "Options page label: 'default mode'"
+	},
+	"optionDefaultEditorModeNormal": {
+		"message": "normaal",
+		"description": "Options page label: 'default mode > normal'"
+	},
+	"optionDefaultEditorModeEdit": {
+		"message": "bewerk de pagina",
+		"description": "Options page label: 'default mode > edit the page'"
+	},
+	"optionDefaultEditorModeFormat": {
+		"message": "formatteer de pagina",
+		"description": "Options page label: 'default mode > format the page'"
+	},
+	"optionDefaultEditorModeCut": {
+		"message": "verwijder elementen",
+		"description": "Options page label: 'default mode > remove elements'"
+	},
+	"optionDefaultEditorModeCutExternal": {
+		"message": "verwijder externe elementen",
+		"description": "Options page label: 'default mode > remove external elements'"
+	},
+	"optionApplySystemTheme": {
+		"message": "pas systeemthema toe bij formatteren van pagina",
+		"description": "Title of the button 'apply the system theme when formatting a page'"
+	},
+	"optionWarnUnsavedPage": {
+		"message": "waarschuwen bij verlaten van pagina met niet-opgeslagen wijzigingen",
+		"description": "Title of the button 'warn if leaving page with unsaved changes'"
+	},
+	"optionDisplayInfobarInEditor": {
+		"message": "toon infobalk",
+		"description": "Title of the button 'display the infobar'"
+	},
+	"optionsMiscSubTitle": {
+		"message": "Diversen",
+		"description": "Options sub-title: 'Misc.'"
+	},
+	"optionBackgroundSave": {
+		"message": "sla pagina's op in de achtergrond",
+		"description": "Options page label: 'save pages in background'"
+	},
+	"optionDisplayStats": {
+		"message": "toon statistieken in console na verwerking",
+		"description": "Options page label: 'display stats in the console after processing'"
+	},
+	"optionSetMaxResourceSize": {
+		"message": "stel maximale grootte in",
+		"description": "Options page label: 'set maximum size'"
+	},
+	"optionMaxResourceSize": {
+		"message": "maximale grootte (MB)",
+		"description": "Options page label: 'maximum size (MB)'"
+	},
+	"optionSetMaxResourceDelay": {
+		"message": "stel maximale downloadtijd in",
+		"description": "Options page label: 'set maximum download time'"
+	},
+	"optionMaxResourceDelay": {
+		"message": "maximale downloadtijd (s)",
+		"description": "Options page label: 'maximum download time (s)'"
+	},
+	"optionPassReferrerOnError": {
+		"message": "stuur \"Referer\"-header na een cross-origin verzoekfout",
+		"description": "Options page label: 'pass \"Referer\" header after a cross-origin request error'"
+	},
+	"optionSaveRawPage": {
+		"message": "Originele pagina opslaan",
+		"description": "Options page label: 'save raw page'"
+	},
+	"optionInsertMetaCSP": {
+		"message": "inhoudsbeveiligingsbeleid instellen",
+		"description": "Options page label: 'set content security policy'"
+	},
+	"optionSaveToClipboard": {
+		"message": "kopieer naar klembord",
+		"description": "Options page label: 'copy to clipboard'"
+	},
+	"optionSaveToFilesystem": {
+		"message": "opslaan in bestandssysteem",
+		"description": "Options page label: 'save to filesystem'"
+	},
+	"optionSharePage": {
+		"message": "deel pagina",
+		"description": "Options page label: 'share page'"
+	},
+	"optionAddProof": {
+		"message": "voeg bewijs van bestaan toe",
+		"description": "Options page label: 'add proof of existence'"
+	},
+	"optionsAddProofConfirm": {
+		"message": "Bevestig dat je SingleFile toestaat een SHA256-hash van elke pagina die je opslaat naar de Woleet API te sturen. Meer informatie vind je op de helppagina of door op het vraagteken naast de optie te klikken.",
+		"description": "Popup text displayed wen enabling the option 'add proof of existence'"
+	},
+	"optionWoleetKey": {
+		"message": "toegangstoken",
+		"description": "Options page label: 'access token'"
+	},
+	"optionSaveToGDrive": {
+		"message": "upload naar Google Drive",
+		"description": "Options page label: 'upload to Google Drive'"
+	},
+	"optionSaveToDropbox": {
+		"message": "upload naar Dropbox",
+		"description": "Options page label: 'upload to Dropbox'"
+	},
+	"optionSaveToGitHub": {
+		"message": "upload naar GitHub",
+		"description": "Options page label: 'upload to GitHub'"
+	},
+	"optionGitHubToken": {
+		"message": "toegangstoken",
+		"description": "Options page label: 'access token'"
+	},
+	"optionGitHubUser": {
+		"message": "gebruikersnaam",
+		"description": "Options page label: 'user name'"
+	},
+	"optionGitHubRepository": {
+		"message": "naam van de repository",
+		"description": "Options page label: 'repository name'"
+	},
+	"optionGitHubBranch": {
+		"message": "naam van de branch",
+		"description": "Options page label: 'branch name'"
+	},
+	"optionSaveWithWebDAV": {
+		"message": "upload naar een WebDAV-server",
+		"description": "Options page label: 'upload to a WebDAV server'"
+	},
+	"optionWebDAVURL": {
+		"message": "URL",
+		"description": "Options page label: 'URL'"
+	},
+	"optionWebDAVUser": {
+		"message": "gebruikers-ID",
+		"description": "Options page label: 'user identifier'"
+	},
+	"optionWebDAVPassword": {
+		"message": "wachtwoord",
+		"description": "Options page label: 'password'"
+	},
+	"optionSaveWithCompanion": {
+		"message": "opslaan met SingleFile Companion",
+		"description": "Options page label: 'save with SingleFile Companion'"
+	},
+	"optionSaveCreatedBookmarks": {
+		"message": "bewaar de pagina van een nieuw gemaakte bladwijzer",
+		"description": "Options page label: 'save the page of a newly created bookmark'"
+	},
+	"optionReplaceBookmarkURL": {
+		"message": "koppel nieuwe bladwijzer aan opgeslagen pagina",
+		"description": "Options page label: 'link the new bookmark to the saved page'"
+	},
+	"optionAllowedBookmarkFolders": {
+		"message": "toegestane mappen",
+		"description": "Options page label: 'allowed folders'"
+	},
+	"optionIgnoredBookmarkFolders": {
+		"message": "genegeerde mappen",
+		"description": "Options page label: 'ignored folders'"
+	},
+	"optionsHelpLink": {
+		"message": "help",
+		"description": "Options help link"
+	},
+	"optionSynchronize": {
+		"message": "synchroniseer opties",
+		"description": "Options label: 'synchronize options'"
+	},
+	"optionsResetButton": {
+		"message": "Reset",
+		"description": "Options button: 'Reset'"
+	},
+	"optionsResetTooltip": {
+		"message": "Reset alle opties naar standaardwaarden",
+		"description": "Options 'Reset' button tooltip"
+	},
+	"optionsResetConfirm": {
+		"message": "Bevestig reset van alle opties of het huidige profiel",
+		"description": "Popup text 'Confirm the reset of all options or the current profile' in the options page"
+	},
+	"optionsResetAllButton": {
+		"message": "Reset alle opties",
+		"description": "Options confirm button: 'Reset all options'"
+	},
+	"optionsResetCurrentButton": {
+		"message": "Reset huidig profiel",
+		"description": "Options confirm button: 'Reset current profile'"
+	},
+	"optionsOKButton": {
+		"message": "OK",
+		"description": "Options confirm button: 'OK'"
+	},
+	"optionsCancelButton": {
+		"message": "Annuleer",
+		"description": "Options confirm button: 'Cancel'"
+	},
+	"optionsExportButton": {
+		"message": "Exporteer",
+		"description": "Options button: 'Export'"
+	},
+	"optionsImportButton": {
+		"message": "Importeer",
+		"description": "Options button: 'Import'"
+	},
+	"logPanelDeferredImages": {
+		"message": "Geplaatste afbeeldingen",
+		"description": "Label 'Deferred images' in the log panel"
+	},
+	"logPanelFrameContents": {
+		"message": "Inhoud van frames",
+		"description": "Label 'Frame contents' in the log panel"
+	},
+	"logPanelEmbeddedImage": {
+		"message": "Ingebedde afbeelding",
+		"description": "Label 'Embedded image' in the log panel"
+	},
+	"logPanelStep": {
+		"message": "Stap",
+		"description": "Label 'Step' (for 'Step x / 4') in the log panel"
+	},
+	"logPanelWidth": {
+		"message": "147",
+		"description": "Width of the log panel in pixels, it should be adjusted for the longest label beginning with 'log' (e.g. 'logPanelDeferredImages')"
+	},
+	"topPanelError": {
+		"message": "SingleFile fout: ",
+		"description": "Label 'SingleFile error: ' in the top panel when displaying an error message"
+	},
+	"topPanelEmbeddedImageButton": {
+		"message": "Afbeelding openen...",
+		"description": "Top panel button 'Open image...' when embedding an image"
+	},
+	"topPanelSharePageButton": {
+		"message": "Pagina delen...",
+		"description": "Top panel button 'Share page...' when sharing a page"
+	},
+	"topPanelShareSelectionButton": {
+		"message": "Selectie delen...",
+		"description": "Top panel button 'Share selection...' when sharing selected content"
+	},
+	"profileDefaultSettings": {
+		"message": "Standaardinstellingen",
+		"description": "Label 'Default settings' of the default settings in the options page"
+	},
+	"profileDisabled": {
+		"message": "Uitgeschakeld",
+		"description": "Label 'Disabled' of the disabled profile name in the options page"
+	},
+	"profileAddButtonTooltip": {
+		"message": "Nieuw profiel toevoegen",
+		"description": "Tooltip 'Add a new profile' in the options page"
+	},
+	"profileRenameButtonTooltip": {
+		"message": "Profiel hernoemen",
+		"description": "Tooltip 'Rename the profile' in the options page"
+	},
+	"profileDeleteButtonTooltip": {
+		"message": "Profiel verwijderen",
+		"description": "Tooltip 'Delete the profile' in the options page"
+	},
+	"profileAddPrompt": {
+		"message": "Voer een naam in voor dit nieuwe profiel",
+		"description": "Popup text 'Enter a name for this new profile' in the options page"
+	},
+	"profileDeleteConfirm": {
+		"message": "Bevestig de verwijdering van het geselecteerde profiel",
+		"description": "Popup text 'Confirm the deletion of the selected profile' in the options page"
+	},
+	"profileRenamePrompt": {
+		"message": "Voer een nieuwe naam in voor het geselecteerde profiel",
+		"description": "Popup text 'Enter a new name for the selected profile' in the options page"
+	},
+	"editorAddYellowNote": {
+		"message": "Gele notitie toevoegen",
+		"description": "Title of the button 'Add a yellow note' in the editor"
+	},
+	"editorAddPinkNote": {
+		"message": "Roze notitie toevoegen",
+		"description": "Title of the button 'Add a pink note' in the editor"
+	},
+	"editorAddBlueNote": {
+		"message": "Blauwe notitie toevoegen",
+		"description": "Title of the button 'Add a blue note' in the editor"
+	},
+	"editorAddGreenNote": {
+		"message": "Groene notitie toevoegen",
+		"description": "Title of the button 'Add a green note' in the editor"
+	},
+	"editorHighlightYellow": {
+		"message": "Markeer geselecteerde tekst in geel",
+		"description": "Title of the button 'Highlight selected text in yellow' in the editor"
+	},
+	"editorHighlightPink": {
+		"message": "Markeer geselecteerde tekst in roze",
+		"description": "Title of the button 'Highlight selected text in pink' in the editor"
+	},
+	"editorHighlightBlue": {
+		"message": "Markeer geselecteerde tekst in blauw",
+		"description": "Title of the button 'Highlight selected text in blue' in the editor"
+	},
+	"editorHighlightGreen": {
+		"message": "Markeer geselecteerde tekst in groen",
+		"description": "Title of the button 'Highlight selected text in green' in the editor"
+	},
+	"editorToggleNotes": {
+		"message": "Notities weergeven/verbergen",
+		"description": "Title of the button 'Display/hide notes' in the editor"
+	},
+	"editorToggleHighlights": {
+		"message": "Gemarkeerde tekst weergeven/verbergen",
+		"description": "Title of the button 'Display/hide the highlighted text' in the editor"
+	},
+	"editorRemoveHighlight": {
+		"message": "Verwijder de geselecteerde markering",
+		"description": "Title of the button 'Remove the selected highlighted text' in the editor"
+	},
+	"editorEditPage": {
+		"message": "In-/uitschakelen alleen-lezen modus",
+		"description": "Title of the button 'Enable/disable read-only' in the editor"
+	},
+	"editorFormatPage": {
+		"message": "Pagina formatteren voor betere leesbaarheid",
+		"description": "Title of the button 'Format the page for better readability' in the editor"
+	},
+	"editorCutInnerPage": {
+		"message": "In-/uitschakelen verwijderen van interne elementen",
+		"description": "Title of the button 'Enable/disable removing of internal elements' in the editor"
+	},
+	"editorCutOuterPage": {
+		"message": "In-/uitschakelen verwijderen van externe elementen",
+		"description": "Title of the button 'Enable/disable removing of external elements' in the editor"
+	},
+	"editorUndoCutPage": {
+		"message": "Laatste verwijderde element herstellen",
+		"description": "Title of the button 'Restore last removed element' in the editor"
+	},
+	"editorUndoAllCutPage": {
+		"message": "Alle verwijderde elementen herstellen",
+		"description": "Title of the button 'Restore all removed elements' in the editor"
+	},
+	"editorRedoCutPage": {
+		"message": "Laatste herstelde element verwijderen",
+		"description": "Title of the button 'Remove last restored element' in the editor"
+	},
+	"editorSavePage": {
+		"message": "Pagina opslaan",
+		"description": "Title of the button 'Save the page' in the editor"
+	},
+	"editorPrintPage": {
+		"message": "Pagina afdrukken",
+		"description": "Title of the button 'Print the page' in the editor"
+	},
+	"pendingsTitle": {
+		"message": "Opslaan in afwachting",
+		"description": "Title of the pending save page 'Pending saves' in the editor"
+	},
+	"pendingsCancelAllButton": {
+		"message": "Alles annuleren",
+		"description": "Pending saves button 'Cancel all'"
+	},
+	"pendingsURLTitle": {
+		"message": "URL",
+		"description": "Title of the first column in the table of the pending saves 'URL'"
+	},
+	"pendingsTitleTitle": {
+		"message": "Titel",
+		"description": "Title of the first column in the table of the pending saves 'Title'"
+	},
+	"pendingsStatusTitle": {
+		"message": "status",
+		"description": "Title of the second column in the table of the pending saves 'status'"
+	},
+	"pendingsPendingStatus": {
+		"message": "in afwachting",
+		"description": "Value of 'status' for pending saves"
+	},
+	"pendingsProcessingStatus": {
+		"message": "verwerken",
+		"description": "Value of 'status' for current saves"
+	},
+	"pendingsCancellingStatus": {
+		"message": "annuleren",
+		"description": "Value of 'status' for cancelled saves"
+	},
+	"pendingsNoPendings": {
+		"message": "er zijn geen opslaan in afwachting",
+		"description": "Label displayed when there are no pending saves"
+	},
+	"pendingsAddUrlsButton": {
+		"message": "URLs toevoegen",
+		"description": "button 'Add URLs'"
+	},
+	"pendingsAddUrls": {
+		"message": "Voer een lijst van URLs in, gescheiden door een nieuwe regel",
+		"description": "Label of the add URLs input"
+	},
+	"pendingsAddUrlsOKButton": {
+		"message": "OK",
+		"description": "Add URLs popup confirm button: 'OK'"
+	},
+	"pendingsAddUrlsCancelButton": {
+		"message": "Annuleren",
+		"description": "Add URLs popup cancel button: 'Cancel'"
+	},
+	"batchSaveUrlsTitle": {
+		"message": "Batch-URLs opslaan",
+		"description": "Title of the 'batch save URLs' page"
+	},
+	"batchSaveUrlsNoURLs": {
+		"message": "Geen URLs",
+		"description": "Label displayed when there are no URLs"
+	},
+	"batchSaveUrlsAddUrlButton": {
+		"message": "URL toevoegen",
+		"description": "label of the button 'Add URL'"
+	},
+	"batchSaveUrlsAddUrlsButton": {
+		"message": "URLs toevoegen...",
+		"description": "label of the button 'Add URLs...'"
+	},
+	"batchSaveUrlsRemoveAllButton": {
+		"message": "Alles verwijderen",
+		"description": "label of the button 'Remove all'"
+	},
+	"batchSaveUrlsSavePagesButton": {
+		"message": "Pagina's opslaan",
+		"description": "label of the button 'Save pages'"
+	},
+	"batchSaveUrlsURLTitle": {
+		"message": "URL",
+		"description": "Title of the column in the table of the URLs"
+	},
+	"optionSaveToRestFormApi": {
+		"message": "uploaden naar een REST Form API",
+		"description": "Options page label: 'upload to a REST Form API'"
+	},
+	"optionRestFormApiUrl": {
+		"message": "URL",
+		"description": "Options page label: 'URL'"
+	},
+	"optionRestFormApiToken": {
+		"message": "autorisatietoken",
+		"description": "Options page label: 'authorization token'"
+	},
+	"optionRestFormApiFileFieldName": {
+		"message": "veldnaam voor archiefdata",
+		"description": "Options page label: 'archive data field name'"
+	},
+	"optionRestFormApiUrlFieldName": {
+		"message": "veldnaam voor archief-URL",
+		"description": "Options page label: 'archive URL field name'"
+	}
 }
